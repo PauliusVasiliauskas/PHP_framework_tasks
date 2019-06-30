@@ -1,0 +1,5 @@
+/package-lock.json
+/nbproject
+/composer.lock
+/vendor
+/app/config/app.php
